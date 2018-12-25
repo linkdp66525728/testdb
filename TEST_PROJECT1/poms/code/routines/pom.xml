@@ -3,12 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.example.test_project1</groupId>
+    <groupId>org.test_project1</groupId>
     <artifactId>code.Master</artifactId>
     <version>7.1.1</version>
     <relativePath>../../</relativePath>
   </parent>
-  <groupId>org.example.test_project1.code</groupId>
+  <groupId>org.test_project1.code</groupId>
   <artifactId>routines</artifactId>
   <version>7.1.1</version>
   <name>TEST_PROJECT1 Routines</name>
